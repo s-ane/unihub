@@ -1,15 +1,15 @@
 # unihub
 This script hub includes the current features mentioned:
-ESP (Toggle)
-Fly (Toggle)
-Noclip (Toggle)
-Fps Boost
-Ctrl TP
-TP To Player
-Unload
-WalkSpeed (Slider)
-JumpPower/JumpHeight (Slider)
-Day/Night (Slider)
+ESP (Toggle),
+Fly (Toggle),
+Noclip (Toggle),
+Fps Boost,
+Ctrl TP,
+TP To Player,
+Unload,
+WalkSpeed (Slider),
+JumpPower/JumpHeight (Slider),
+Day/Night (Slider),
 -------------------------------
 
 this project was generated using chatgpt4
