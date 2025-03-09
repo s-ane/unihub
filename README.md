@@ -21,9 +21,7 @@ JumpPower/JumpHeight (Slider)
 ------------
 Day/Night (Slider)
 -------------------------------
-
-this project was generated using chatgpt4,
-everything including the UI and Scripts used was generated
+ts project ws made by me of course!!!
 ------------
 # loadstring ↓ ↓ ↓
 loadstring(game:HttpGet("https://raw.githubusercontent.com/s-ane/unihub/main/unihub.lua"))();
